@@ -14,6 +14,12 @@
 		8363471F2B5ED3FF0034775B /* Figure_Skater_trading_cards_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8363471E2B5ED3FF0034775B /* Figure_Skater_trading_cards_Tests.swift */; };
 		836347292B5ED3FF0034775B /* Figure_Skater_trading_cards_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836347282B5ED3FF0034775B /* Figure_Skater_trading_cards_UITests.swift */; };
 		8363472B2B5ED3FF0034775B /* Figure_Skater_trading_cards_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8363472A2B5ED3FF0034775B /* Figure_Skater_trading_cards_UITestsLaunchTests.swift */; };
+		836347382B5ED4310034775B /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836347372B5ED4310034775B /* SwiftUIView.swift */; };
+		8363473A2B5ED54C0034775B /* AT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836347392B5ED54C0034775B /* AT.swift */; };
+		8363473C2B5ED8270034775B /* AS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8363473B2B5ED8270034775B /* AS.swift */; };
+		8363473E2B5ED9050034775B /* KV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8363473D2B5ED9050034775B /* KV.swift */; };
+		836347402B5ED97A0034775B /* AZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8363473F2B5ED97A0034775B /* AZ.swift */; };
+		836347422B5EDA010034775B /* EM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836347412B5EDA010034775B /* EM.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +50,12 @@
 		836347242B5ED3FF0034775B /* Figure Skater(trading cards)UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Figure Skater(trading cards)UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		836347282B5ED3FF0034775B /* Figure_Skater_trading_cards_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Figure_Skater_trading_cards_UITests.swift; sourceTree = "<group>"; };
 		8363472A2B5ED3FF0034775B /* Figure_Skater_trading_cards_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Figure_Skater_trading_cards_UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		836347372B5ED4310034775B /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		836347392B5ED54C0034775B /* AT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AT.swift; sourceTree = "<group>"; };
+		8363473B2B5ED8270034775B /* AS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AS.swift; sourceTree = "<group>"; };
+		8363473D2B5ED9050034775B /* KV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KV.swift; sourceTree = "<group>"; };
+		8363473F2B5ED97A0034775B /* AZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AZ.swift; sourceTree = "<group>"; };
+		836347412B5EDA010034775B /* EM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EM.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +108,12 @@
 			children = (
 				8363470D2B5ED3FD0034775B /* Figure_Skater_trading_cards_App.swift */,
 				8363470F2B5ED3FD0034775B /* ContentView.swift */,
+				836347372B5ED4310034775B /* SwiftUIView.swift */,
+				836347392B5ED54C0034775B /* AT.swift */,
+				8363473B2B5ED8270034775B /* AS.swift */,
+				8363473D2B5ED9050034775B /* KV.swift */,
+				8363473F2B5ED97A0034775B /* AZ.swift */,
+				836347412B5EDA010034775B /* EM.swift */,
 				836347112B5ED3FF0034775B /* Assets.xcassets */,
 				836347132B5ED3FF0034775B /* Preview Content */,
 			);
@@ -257,8 +275,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8363473A2B5ED54C0034775B /* AT.swift in Sources */,
 				836347102B5ED3FD0034775B /* ContentView.swift in Sources */,
+				8363473E2B5ED9050034775B /* KV.swift in Sources */,
+				836347402B5ED97A0034775B /* AZ.swift in Sources */,
 				8363470E2B5ED3FD0034775B /* Figure_Skater_trading_cards_App.swift in Sources */,
+				836347422B5EDA010034775B /* EM.swift in Sources */,
+				8363473C2B5ED8270034775B /* AS.swift in Sources */,
+				836347382B5ED4310034775B /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
